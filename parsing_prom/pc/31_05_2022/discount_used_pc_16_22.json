@@ -1,0 +1,622 @@
+[
+    {
+        "name": "Ноутбук Lenovo IdeaPad G565 - 15,6\" - 2 Ядра - Ram 2Gb - HDD 250Gb - Ідеал !",
+        "new_price": 3119.52,
+        "old_price": 6499.0,
+        "discount": 52.0,
+        "status": "В наявності",
+        "photo_link": "https://images.prom.ua/3124163633_w200_h200_noutbuk-lenovo-ideapad.jpg",
+        "link": "https://prom.ua/p1416603596-noutbuk-lenovo-ideapad.html",
+        "positive_feedback": 98
+    },
+    {
+        "name": "Ноутбук ASUS X61s - 16,1\" - 2 Ядра - Ram 2Gb - HDD 320Gb - Ідеал !",
+        "new_price": 3299.45,
+        "old_price": 5999.0,
+        "discount": 45.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/3523011095_w200_h200_noutbuk-asus-x61s.jpg",
+        "link": "https://prom.ua/p1538235552-noutbuk-asus-x61s.html",
+        "positive_feedback": 98
+    },
+    {
+        "name": "Игровой Ноутбук Packard Bell EasyNote LS11 - 17,3\" - Core i5 - 4Gb/500Gb - Идеал !",
+        "new_price": 8259.41,
+        "old_price": 13999.0,
+        "discount": 41.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/3806825746_w200_h200_igrovoj-noutbuk-packard.jpg",
+        "link": "https://prom.ua/p1321447015-igrovoj-noutbuk-packard.html",
+        "positive_feedback": 98
+    },
+    {
+        "name": "Ноутбук Samsung R503 - 15,4\" - 2 Ядра - Ram 2Gb - HDD 160Gb - Ідеал !",
+        "new_price": 3099.38,
+        "old_price": 4999.0,
+        "discount": 38.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/3590502439_w200_h200_noutbuk-samsung-r503.jpg",
+        "link": "https://prom.ua/p1309992991-noutbuk-samsung-r503.html",
+        "positive_feedback": 98
+    },
+    {
+        "name": "Toshiba Tecra A9 2 ядра Intel C2D (2.20 Ггц)/4 ГБ/500 ГБ/1680x1050/Nvidia Quadro NVS 130M/АКБ 1 год",
+        "new_price": 3292.0,
+        "old_price": 4692.0,
+        "discount": 29.8,
+        "status": "В наявності",
+        "photo_link": "https://images.prom.ua/3811308241_w200_h200_toshiba-tecra-a9.jpg",
+        "link": "https://prom.ua/p1625910779-toshiba-tecra-yadra.html",
+        "positive_feedback": 95
+    },
+    {
+        "name": "Toshiba Tecra A9 2 ядра Intel C2D (2.20 Ггц)/4 ГБ/500 ГБ/1680x1050/Nvidia Quadro NVS 130M/АКБ 1 год",
+        "new_price": 2955.0,
+        "old_price": 3855.0,
+        "discount": 23.3,
+        "status": "В наявності",
+        "photo_link": "https://images.prom.ua/3109598802_w200_h200_toshiba-tecra-a9.jpg",
+        "link": "https://prom.ua/p1412277237-toshiba-tecra-yadra.html",
+        "positive_feedback": 95
+    },
+    {
+        "name": "Ноутбук Packard Bell P4LS0 Intel Core I3-2328M 6 GB RAM 320 GB HDD NVIDIA GeForce GT 540M [14\"] - ноутбук Б/В",
+        "new_price": 6800.0,
+        "old_price": 8500.0,
+        "discount": 20.0,
+        "status": "В наявності",
+        "photo_link": "https://images.prom.ua/3769048010_w200_h200_noutbuk-packard-bell.jpg",
+        "link": "https://prom.ua/p1613031183-noutbuk-packard-bell.html",
+        "positive_feedback": 97
+    },
+    {
+        "name": "Ноутбук Polaroid Notebook MPC2144PJE01.126-Intel Atom x5-Z8350-1,44GHz-4Gb-DDR3-32Gb-SSD-W14-Web-(B)- Б/В",
+        "new_price": 4016.0,
+        "old_price": 5020.0,
+        "discount": 20.0,
+        "status": "В наявності",
+        "photo_link": "https://images.prom.ua/2975011076_w200_h200_noutbuk-polaroid-notebook.jpg",
+        "link": "https://prom.ua/p1370253468-noutbuk-polaroid-notebook.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук HP PAvilion dv6500 AMD Trion 64 X2 3Gb RAM 250Gb HDD Nvidia GeForce 7150M 15.4\" - ноутбук Б/В",
+        "new_price": 3234.0,
+        "old_price": 3850.0,
+        "discount": 16.0,
+        "status": "В наявності",
+        "photo_link": "https://images.prom.ua/3781181641_w200_h200_noutbuk-hp-pavilion.jpg",
+        "link": "https://prom.ua/p1616938762-noutbuk-pavilion-dv6500.html",
+        "positive_feedback": 97
+    },
+    {
+        "name": "Ноутбук Acer Aspire 7551 AMD Athlon II P340 4Gb HDD 320Gb AMD Radeon HD 6400M 512Mb 17.3\" - Б/В",
+        "new_price": 4350.0,
+        "old_price": 5000.0,
+        "discount": 13.0,
+        "status": "В наявності",
+        "photo_link": "https://images.prom.ua/3803269145_w200_h200_noutbuk-acer-aspire.jpg",
+        "link": "https://prom.ua/p1623629095-noutbuk-acer-aspire.html",
+        "positive_feedback": 97
+    },
+    {
+        "name": "Б/В Ноутбук Lenovo L340-15IRH 15.6 FHD Intel i5-9300H 8 RAM 512 SSD NVIDIA GTX 1050 3 ГБ",
+        "new_price": 20312.0,
+        "old_price": 22568.89,
+        "discount": 10.0,
+        "status": "В наявності",
+        "photo_link": "https://images.prom.ua/3623744484_w200_h200_bu-noutbuk-lenovo.jpg",
+        "link": "https://prom.ua/p1568781849-noutbuk-lenovo-l340.html",
+        "positive_feedback": 100
+    },
+    {
+        "name": "БУ Ноутбук Samsung R730 17.3 P6200 4 RAM 320 HDD NVIDIA GT 310M 1 ГБ",
+        "new_price": 4726.0,
+        "old_price": 5251.11,
+        "discount": 10.0,
+        "status": "В наявності",
+        "photo_link": "https://images.prom.ua/3699445529_w200_h200_bu-noutbuk-samsung.jpg",
+        "link": "https://prom.ua/p1592012101-noutbuk-samsung-r730.html",
+        "positive_feedback": 100
+    },
+    {
+        "name": "БУ Ноутбук Lenovo Ideapad Y580 15.6 Intel i7-3630QM 8 RAM 750 HDD NVIDIA GTX 660M 2 ГБ",
+        "new_price": 12790.0,
+        "old_price": 14211.11,
+        "discount": 10.0,
+        "status": "В наявності",
+        "photo_link": "https://images.prom.ua/3769180484_w200_h200_bu-noutbuk-lenovo.jpg",
+        "link": "https://prom.ua/p1613063116-noutbuk-lenovo-ideapad.html",
+        "positive_feedback": 100
+    },
+    {
+        "name": "БУ Ноутбук Asus U30S 13.3 Intel i5-2430M 8 RAM 500 HDD NVIDIA 520M 1 ГБ",
+        "new_price": 6350.0,
+        "old_price": 7055.56,
+        "discount": 10.0,
+        "status": "В наявності",
+        "photo_link": "https://images.prom.ua/3786832139_w200_h200_bu-noutbuk-asus.jpg",
+        "link": "https://prom.ua/p1618638353-noutbuk-asus-u30s.html",
+        "positive_feedback": 100
+    },
+    {
+        "name": "БУ Ноутбук HP ZBook 15 15,6 FHD IPS i7-4700MQ 16 RAM 500 HDD NVIDIA Quadro K1100M 2 ГБ",
+        "new_price": 14960.0,
+        "old_price": 16622.22,
+        "discount": 10.0,
+        "status": "В наявності",
+        "photo_link": "https://images.prom.ua/3787416188_w200_h200_bu-noutbuk-hp.jpg",
+        "link": "https://prom.ua/p1618784938-noutbuk-zbook-156.html",
+        "positive_feedback": 100
+    },
+    {
+        "name": "БУ Ноутбук HP 8570w 15,6 HD+ i5-3360M 8 RAM 500 HDD NVIDIA Quadro K1000M 2 ГБ",
+        "new_price": 9200.0,
+        "old_price": 10222.22,
+        "discount": 10.0,
+        "status": "В наявності",
+        "photo_link": "https://images.prom.ua/3787437819_w200_h200_bu-noutbuk-hp.jpg",
+        "link": "https://prom.ua/p1618786854-noutbuk-8570w-156.html",
+        "positive_feedback": 100
+    },
+    {
+        "name": "БУ Ноутбук Acer Aspire V5-591G-54PX 15.6 Intel i5-6300HQ 16 RAM 1000 HDD NVIDIA GTX 950M 4 ГБ",
+        "new_price": 19499.0,
+        "old_price": 21665.56,
+        "discount": 10.0,
+        "status": "В наявності",
+        "photo_link": "https://images.prom.ua/3792459397_w200_h200_bu-noutbuk-acer.jpg",
+        "link": "https://prom.ua/p1620289185-noutbuk-acer-aspire.html",
+        "positive_feedback": 100
+    },
+    {
+        "name": "БУ Ноутбук Lenovo IdeaPad 310-15ISK 15.6 Intel i3-6006U 8 RAM 500 HDD NVIDIA GT 920MX 2 ГБ",
+        "new_price": 11850.0,
+        "old_price": 13166.67,
+        "discount": 10.0,
+        "status": "В наявності",
+        "photo_link": "https://images.prom.ua/3792459399_w200_h200_bu-noutbuk-lenovo.jpg",
+        "link": "https://prom.ua/p1620289186-noutbuk-lenovo-ideapad.html",
+        "positive_feedback": 100
+    },
+    {
+        "name": "БУ Ноутбук Dell Inspiron 17 5000 17.3 Intel i7-7500U 16 RAM 256 SSD AMD RADEON R7 445 4 ГБ",
+        "new_price": 16999.0,
+        "old_price": 18887.78,
+        "discount": 10.0,
+        "status": "В наявності",
+        "photo_link": "https://images.prom.ua/3794351058_w200_h200_bu-noutbuk-dell.jpg",
+        "link": "https://prom.ua/p1620851589-noutbuk-dell-inspiron.html",
+        "positive_feedback": 100
+    },
+    {
+        "name": "БУ Ноутбук Dell Precision 7510 15.6 FHD Intel i7-6820HQ 8 RAM 256 SSD NVIDIA QUADRO M1000M 4 ГБ",
+        "new_price": 18999.0,
+        "old_price": 21110.0,
+        "discount": 10.0,
+        "status": "В наявності",
+        "photo_link": "https://images.prom.ua/3794351079_w200_h200_bu-noutbuk-dell.jpg",
+        "link": "https://prom.ua/p1620851594-noutbuk-dell-precision.html",
+        "positive_feedback": 100
+    },
+    {
+        "name": "БУ Ноутбук Asus X555lDB 15.6 Intel i5-5200U 8 RAM 500 HDD NVIDIA GT 820M 2 ГБ",
+        "new_price": 10999.0,
+        "old_price": 12221.11,
+        "discount": 10.0,
+        "status": "В наявності",
+        "photo_link": "https://images.prom.ua/3798440390_w200_h200_bu-noutbuk-asus.jpg",
+        "link": "https://prom.ua/p1622163400-noutbuk-asus-x555ldb.html",
+        "positive_feedback": 100
+    },
+    {
+        "name": "БУ Ноутбук Acer V5-571G 15.6 Intel i5-3317U 8 RAM 500 HDD NVIDIA GT 620M 1 ГБ",
+        "new_price": 7650.0,
+        "old_price": 8500.0,
+        "discount": 10.0,
+        "status": "В наявності",
+        "photo_link": "https://images.prom.ua/3798440405_w200_h200_bu-noutbuk-acer.jpg",
+        "link": "https://prom.ua/p1622163402-noutbuk-acer-571g.html",
+        "positive_feedback": 100
+    },
+    {
+        "name": "БУ Ноутбук Lenovo Ideapad S145-15IWL 15.6 Intel i3-8145U 8 RAM 256 SSD NVIDIA MX110 2 ГБ",
+        "new_price": 13999.0,
+        "old_price": 15554.44,
+        "discount": 10.0,
+        "status": "В наявності",
+        "photo_link": "https://images.prom.ua/3798601151_w200_h200_bu-noutbuk-lenovo.jpg",
+        "link": "https://prom.ua/p1622214938-noutbuk-lenovo-ideapad.html",
+        "positive_feedback": 100
+    },
+    {
+        "name": "Ноутбук Lenovo ThinkPad T530-Intel Core-i5-3210M-2,50GHz-4Gb-DDR3-500Gb-HDD-DVD-RW15.6-Web-NVIDIA NVS 5400M(2Gb)-(C)- Б/В",
+        "new_price": 6109.0,
+        "old_price": 6430.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/2548209037_w200_h200_noutbuk-lenovo-thinkpad.jpg",
+        "link": "https://prom.ua/p1237433625-noutbuk-lenovo-thinkpad.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук Dell Latitude E5540-Intel Core-i5-4300U-1,90GHz-4Gb-DDR3-320Gb-HDD-W15.6-FHD-Web-NVIDIA GeForce GT 720M(2Gb)-(C)- Б/В",
+        "new_price": 6992.0,
+        "old_price": 7360.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/2577242444_w200_h200_noutbuk-dell-latitude.jpg",
+        "link": "https://prom.ua/p1246566710-noutbuk-dell-latitude.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук Lenovo ThinkPad S440-Intel Core i5-4200U-1.6GHz-4Gb-DDR3-320Gb-HDD-W14-IPS-Touch-Web-AMD Radeon HD 8670M(1Gb)-(B)- Б/В",
+        "new_price": 8094.0,
+        "old_price": 8520.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/2577252789_w200_h200_noutbuk-lenovo-thinkpad.jpg",
+        "link": "https://prom.ua/p1246566834-noutbuk-lenovo-thinkpad.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук Dell Precision 7710-Intel Core i5-6300HQ-2.3GHz-8Gb-DDR4-256Gb-SDD-W17.3-IPS-FHD-AMD Radeon R9 M375X(4Gb)-(B)- Б/В",
+        "new_price": 21622.0,
+        "old_price": 22760.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/2722704452_w200_h200_noutbuk-dell-precision.jpg",
+        "link": "https://prom.ua/p1292390689-noutbuk-dell-precision.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук Dell Latitude E5570-Intel Core-i5-6300U-2,40GHz-8Gb-DDR4-128Gb-SSD-W15.6-FHD-IPS-Web-AMD Radeon R7 M360-(C)- Б/В",
+        "new_price": 12445.0,
+        "old_price": 13100.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/2722697991_w200_h200_noutbuk-dell-latitude.jpg",
+        "link": "https://prom.ua/p1292390693-noutbuk-dell-latitude.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук HP 15-n221so-AMD A6-5200-2.0GHz-4Gb-DDR3-320Gb-HDD-DVD-RW-W15,6-Web-AMD Radeon HD 8600M (2Gb)-(C)- Б/В",
+        "new_price": 5358.0,
+        "old_price": 5640.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/2811693682_w200_h200_noutbuk-hp-15-n221so-amd.jpg",
+        "link": "https://prom.ua/p1320002934-noutbuk-n221so-amd.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук Lenovo Z50-75-AMD A8-7100-1.8GHZ-4GB-DDR3-320GB-HDD-W15,6-AMD Radeon R6 M255DX-(B-)- Б/В",
+        "new_price": 7030.0,
+        "old_price": 7400.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/2811693681_w200_h200_noutbuk-lenovo-z50-75-amd.jpg",
+        "link": "https://prom.ua/p1320002942-noutbuk-lenovo-z50.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук HP Pavilion 15-n018so-AMD A6-5200-2.0GHz-4Gb-DDR3-320Gb-HDD-W15.6-Touch-Web-DVD-R-AMD RadeonHD 8600-(B-)- Б/В",
+        "new_price": 7135.0,
+        "old_price": 7510.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/2823955406_w200_h200_noutbuk-hp-pavilion.jpg",
+        "link": "https://prom.ua/p1323962753-noutbuk-pavilion-n018so.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук Lenovo IdeaPad G780-Intel Core-I7-3632QM-2.20GHz-4GB-DDR3-320Gb-HDD-W17.3-Web-DVD-R-NVIDIA GeForce GT635M(2Gb)-(B-)- Б/В",
+        "new_price": 9044.0,
+        "old_price": 9520.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/2871608128_w200_h200_noutbuk-lenovo-ideapad.jpg",
+        "link": "https://prom.ua/p1339038561-noutbuk-lenovo-ideapad.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук Dell Latitude E5440-Intel Core-i5-4300U-1,90GHz-4Gb-DDR3-500Gb-HDD-DVD-R-W14-Web-NVIDIA GeForce GT 720M-(B)- Б/В",
+        "new_price": 8845.0,
+        "old_price": 9310.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/2871601719_w200_h200_noutbuk-dell-latitude.jpg",
+        "link": "https://prom.ua/p1339039603-noutbuk-dell-latitude.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук Dell Precision 7710-Intel Core i5-6300QH-2.3GHz-8Gb-DDR4-256Gb-SDD-W17.3IPS-FHD-AMD Radeon R9 M375X(4Gb)-(C)- Б/В",
+        "new_price": 22002.0,
+        "old_price": 23160.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/2872203858_w200_h200_noutbuk-dell-precision.jpg",
+        "link": "https://prom.ua/p1339240578-noutbuk-dell-precision.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук Lenovo IdeaPad Z50-70-Intel Core-i7-4510U-2.0GHz-4Gb-DDR3-320Gb-HDD-DVD-RW-W15,6-FHD-Web-NVIDIA GeForce 840M-(C-)- Б/В",
+        "new_price": 7961.0,
+        "old_price": 8380.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/2930912566_w200_h200_noutbuk-lenovo-ideapad.jpg",
+        "link": "https://prom.ua/p1357683706-noutbuk-lenovo-ideapad.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук Dell Latitude E5440-Intel Core-i5-4300U-1,90GHz-4Gb-DDR3-500Gb-HDD-W14-G-Web-NVIDIA GeForce GT 720M-(B)- Б/В",
+        "new_price": 8940.0,
+        "old_price": 9410.0,
+        "discount": 5.0,
+        "status": "В наявності",
+        "photo_link": "https://images.prom.ua/2962613786_w200_h200_noutbuk-dell-latitude.jpg",
+        "link": "https://prom.ua/p1366435861-noutbuk-dell-latitude.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук Dell Inspiron N7010-Intel Core i3-350M-2.27GHz-4Gb-DDR3-500Gb-HDD-Web-W17.3-Web-DVD-R-AMD Radeon HD 5470-(C)- Б/В",
+        "new_price": 5605.0,
+        "old_price": 5900.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/3196609616_w200_h200_noutbuk-dell-inspiron.jpg",
+        "link": "https://prom.ua/p1438596989-noutbuk-dell-inspiron.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук Medion MD98000-Intel C2D-T2300-1,66Hz-2Gb-DDR2-320Gb-HDD-W15.4-DVD-R-NVIDIA GeForce GF7400M-(C)- Б/В",
+        "new_price": 2613.0,
+        "old_price": 2750.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/3213466284_w200_h200_noutbuk-medion-md98000-intel.jpg",
+        "link": "https://prom.ua/p1443670454-noutbuk-medion-md98000.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук Acer Aspire E1-572G-54208G1T-Core-i5-4200U-1.6GHz-4Gb-DDR3-500Gb-HDD-W15.6-Web-HD Radeon 8670M-(B)- Б/В",
+        "new_price": 9158.0,
+        "old_price": 9640.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/3298787076_w200_h200_noutbuk-acer-aspire.jpg",
+        "link": "https://prom.ua/p1443710758-noutbuk-acer-aspire.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук Fujitsu Celsius H720-Intel-Core i7-3720QM-2,6GHz-8Gb-DDR3-250Gb-SSD-W15.6-FHD-Web-NVIDIA Quadro K2000M-(C)- Б/В",
+        "new_price": 10374.0,
+        "old_price": 10920.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/3218192290_w200_h200_noutbuk-fujitsu-celsius.jpg",
+        "link": "https://prom.ua/p1444916153-noutbuk-fujitsu-celsius.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук Dell Precision M4600-Intel Core i7-2720QM-2.2GHz-4Gb-DDR3-128Gb-HDD-W15.6-FHD-DVD-R-Web+-NVIDIA Quadro 1000M-(C)- Б/В",
+        "new_price": 9519.0,
+        "old_price": 10020.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/3304849880_w200_h200_noutbuk-dell-precision.jpg",
+        "link": "https://prom.ua/p1470400186-noutbuk-dell-precision.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук Dell Precision M4600-Intel Core i7-2960XM-2.7GHz-8Gb-DDR3-320Gb-HDD-W15.6-DVD-R-Web+-NVIDIA Quadro 1000M-(C)- Б/В",
+        "new_price": 9519.0,
+        "old_price": 10020.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/3304849881_w200_h200_noutbuk-dell-precision.jpg",
+        "link": "https://prom.ua/p1470400187-noutbuk-dell-precision.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук Dell Precision M6600-Intel Core i7-2720QM-2.20GHz-8Gb-DDR3-500Gb-HDD-W17,3-FHD-DVD-R+NVIDIA QUADRO 3000M(2Gb)-(B)- Б/В",
+        "new_price": 13832.0,
+        "old_price": 14560.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/3304849884_w200_h200_noutbuk-dell-precision.jpg",
+        "link": "https://prom.ua/p1470400189-noutbuk-dell-precision.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук Dell Precision 5520-Intel Core i5-7300HQ-2.50GHz-16Gb-DDR4-512Gb-SSD-W15,6-FHD-IPS-WebNVIDIA Quadro M1200-(B)- Б/В",
+        "new_price": 24472.0,
+        "old_price": 25760.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/3373497964_w200_h200_noutbuk-dell-precision.jpg",
+        "link": "https://prom.ua/p1491193225-noutbuk-dell-precision.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук Dell Latitude E5580-Intel Core-i5-7440HQ-2,80GHz-8Gb-DDR4-256Gb-SSD-W15.6-FHD IPS-Web-nVidia 940MX-(B)- Б/В",
+        "new_price": 19152.0,
+        "old_price": 20160.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/3374015006_w200_h200_noutbuk-dell-latitude.jpg",
+        "link": "https://prom.ua/p1491353456-noutbuk-dell-latitude.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук HP Compaq 8510p-Intel C2D-T9300-2.5GHz-2Gb-DDR2-250Gb-HDD-W15.4-DVD-RW-ATI MOBILE Radeon HD 2600 (256Mb) (С) -Б/В",
+        "new_price": 2556.0,
+        "old_price": 2690.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/3388423040_w200_h200_noutbuk-hp-compaq.jpg",
+        "link": "https://prom.ua/p1495572474-noutbuk-compaq-8510p.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук HP ProBook 6560b-Intel Core i5-2520M-2.5GHz-4Gb-DDR3-320Gb-HDD-Web-W15.6-HD+-AMD Radeon HD 6470M-(B-)- Б/В",
+        "new_price": 5852.0,
+        "old_price": 6160.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/3633304857_w200_h200_noutbuk-hp-probook.jpg",
+        "link": "https://prom.ua/p1554357315-noutbuk-probook-6560b.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук Dell Precision 5520-Intel Core i7-7700HQ-2.780GHz-16Gb-DDR4-256Gb-SSD-W15,6-FHD-IPS-Web-NVIDIA Quadro M1200-(B)-Б/В",
+        "new_price": 24358.0,
+        "old_price": 25640.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/3594793281_w200_h200_noutbuk-dell-precision.jpg",
+        "link": "https://prom.ua/p1559713153-noutbuk-dell-precision.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук HP ProBook 4520s-Intel-Core-i3-370M-2,40GHz-2Gb-DDR3-320Gb-HDD-DVD-R-W15.6-Web-ATI Mobility Radeon HD 5470-(B)- Б/В",
+        "new_price": 4598.0,
+        "old_price": 4840.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/3616263223_w200_h200_noutbuk-hp-probook.jpg",
+        "link": "https://prom.ua/p1566507252-noutbuk-probook-4520s.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук HP Pavilion 15-e073so-AMD-A6-5350M-2.9GHz-4Gb-DDR3-320Gb-HDD-W15.6-Web-AMD Radeon HD 8600M-(B)- Б/В",
+        "new_price": 6926.0,
+        "old_price": 7290.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/3626568744_w200_h200_noutbuk-hp-pavilion.jpg",
+        "link": "https://prom.ua/p1569646948-noutbuk-pavilion-e073so.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук HP Elitebook 8470p-Intel Core-i5-3210M-2.5 GHz-4Gb-DDR3-320Gb-HHD-DVD-RW-W14-HD-Web-AMD Radeon HD 7570M(1Gb)-(B)-Б/В",
+        "new_price": 6498.0,
+        "old_price": 6840.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/3749454696_w200_h200_noutbuk-hp-elitebook.jpg",
+        "link": "https://prom.ua/p1607253525-noutbuk-elitebook-8470p.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук HP Elitebook 8470p-Intel Core-i5-3360M-2.8 GHz-4Gb-DDR3-500Gb-HHD-DVD-RW-HD+-W14-Web-AMD Radeon HD 7570M(1Gb)-(B)-Б/В",
+        "new_price": 6821.0,
+        "old_price": 7180.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/3749454698_w200_h200_noutbuk-hp-elitebook.jpg",
+        "link": "https://prom.ua/p1607253526-noutbuk-elitebook-8470p.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук HP ProBook 6560b-Intel Core i5-2410M-2.3GHz-4Gb-DDR3-500Gb-HDD-Web-W15.6-HD+-AMD Radeon HD 6470M-(B-)-Б/В",
+        "new_price": 6232.0,
+        "old_price": 6560.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/3749588117_w200_h200_noutbuk-hp-probook.jpg",
+        "link": "https://prom.ua/p1607278495-noutbuk-probook-6560b.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук Toshiba Satellite C870-10L-Intel Pentium B960-2.2GHz-4Gb-DDR3-320Gb-HDD-W17.3-Web-AMD Radeon HD 7610M(1Gb)- Б/В",
+        "new_price": 5577.0,
+        "old_price": 5870.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/3762190879_w200_h200_noutbuk-toshiba-satellite.jpg",
+        "link": "https://prom.ua/p1610927586-noutbuk-toshiba-satellite.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук Acer TravelMate P278-MG- i7-6500U-8Gb-DDR4-256ssd+1Tb-W17.3- FHD/nVidia 940M-Web-(A)-Б/В",
+        "new_price": 20767.0,
+        "old_price": 21860.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/3771671927_w200_h200_noutbuk-acer-travelmate.jpg",
+        "link": "https://prom.ua/p1613699639-noutbuk-acer-travelmate.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук Dell Latitude E5580-Intel Core-i7-7820HQ-2,90GHz-16Gb-DDR4-512Gb-SSD-W15.6-FHD IPS-Web-nVidia 940MX-(A)-Б/В",
+        "new_price": 21765.0,
+        "old_price": 22910.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/3771676199_w200_h200_noutbuk-dell-latitude.jpg",
+        "link": "https://prom.ua/p1613699640-noutbuk-dell-latitude.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук Fujitsu Celsius H760-Intel-Core i7-7820HQ-2,7GHz-8Gb-DDR4-256Gb-SSD-DVD-R-W15.6-FHD-Web-(B)-NVIDIA Quadro M1000M-(2Gb)-Б/В",
+        "new_price": 19665.0,
+        "old_price": 20700.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/3790532769_w200_h200_noutbuk-fujitsu-celsius.jpg",
+        "link": "https://prom.ua/p1619658248-noutbuk-fujitsu-celsius.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук HP ZBook 15 G2-Intel-Core-i7-4610M-3,0GHz-8Gb-DDR3-120Gb-SSD-W15.6-IPS-FHD-NVIDIA Quadro K1100M-(2Gb)-(B)- Б/В",
+        "new_price": 13709.0,
+        "old_price": 14430.0,
+        "discount": 5.0,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/3790548755_w200_h200_noutbuk-hp-zbook.jpg",
+        "link": "https://prom.ua/p1619658260-noutbuk-zbook-intel.html",
+        "positive_feedback": 88
+    },
+    {
+        "name": "Ноутбук HP Pavilion 15-p260no-AMD-A6-6310-1.8GHz-12Gb-DDR3-320Gb-HDD-W15.6-Web-AMD Radeon R7-(B)- Б/В",
+        "new_price": 10441.0,
+        "old_price": 10962.0,
+        "discount": 4.8,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/2811717216_w200_h200_noutbuk-hp-pavilion.jpg",
+        "link": "https://prom.ua/p1320013491-noutbuk-pavilion-p260no.html",
+        "positive_feedback": 78
+    },
+    {
+        "name": "Ноутбук HP Pavilion dv6-6143eo-AMD A6-3410MX-1.6GHz-4Gb-DDR3-500Gb-HDD-W15.6-Web-DVD-R-AMD Radeon HD 6750M-(B-)- Б/В",
+        "new_price": 6185.0,
+        "old_price": 6490.0,
+        "discount": 4.7,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/2784882540_w200_h200_noutbuk-hp-pavilion.jpg",
+        "link": "https://prom.ua/p1311682695-noutbuk-pavilion-dv6.html",
+        "positive_feedback": 78
+    },
+    {
+        "name": "Ноутбук HP Pavilion dv6-6102eo-AMD A6-3410MX-1.6GHz-4Gb-DDR3-500Gb-HDD-W15.6-Web-DVD-R-AMD Radeon HD 6750M-(B-)- Б/В",
+        "new_price": 6185.0,
+        "old_price": 6490.0,
+        "discount": 4.7,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/2784875168_w200_h200_noutbuk-hp-pavilion.jpg",
+        "link": "https://prom.ua/p1311682725-noutbuk-pavilion-dv6.html",
+        "positive_feedback": 78
+    },
+    {
+        "name": "Ноутбук Acer ASPIRE 3820-Intel Core-I5-450M-2.40GHz-4Gb-DDR3-320Gb-HDD-W13.3-Web-AMD Radeon HD 5650M-(B-)- Б/В",
+        "new_price": 6289.0,
+        "old_price": 6602.0,
+        "discount": 4.7,
+        "status": "Закінчується",
+        "photo_link": "https://images.prom.ua/2787219554_w200_h200_noutbuk-acer-aspire.jpg",
+        "link": "https://prom.ua/p1312432312-noutbuk-acer-aspire.html",
+        "positive_feedback": 78
+    }
+]
