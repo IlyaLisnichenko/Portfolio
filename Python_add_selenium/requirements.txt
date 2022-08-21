@@ -1,0 +1,6 @@
+pytest
+selenium
+requests
+selene
+bs4
+lxml
